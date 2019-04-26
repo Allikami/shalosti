@@ -16,3 +16,7 @@ heloooo
 [Моя страница вконтакте](https://vk.com/kamillabakhtieva)
 
 **billie eilish** is awesome
+
+'''html
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+'''

@@ -16,5 +16,3 @@ heloooo
 [Моя страница вконтакте](https://vk.com/kamillabakhtieva)
 
 **billie eilish** is awesome
-
-<font color="green"> i am greench </font>

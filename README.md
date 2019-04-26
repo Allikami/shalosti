@@ -17,6 +17,4 @@ heloooo
 
 **billie eilish** is awesome
 
-'''html
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-'''
+<font color="green"> i am greench </font>
